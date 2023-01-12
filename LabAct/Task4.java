@@ -13,7 +13,7 @@ public class Task4 {
                 
                    
                 // File path/directory
-		File inputFile = new File("C:\\Users\\Gail\\Documents\\NetBeansProjects\\Programming2Activity\\dummy.txt"); //tinatamad na ko mag comment...
+		File inputFile = new File("C:\\Users\\Gail\\Documents\\NetBeansProjects\\Programming2Activity\\dummy.txt"); 
 		String[] words = null;
                 // Initial value for word count
 		int wordCounter = 0;
